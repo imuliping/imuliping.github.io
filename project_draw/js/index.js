@@ -1,5 +1,8 @@
 // starting 
-$(document).ready( main() );
+//$(document).ready( main() );
+// I have to add some thing
+
+window.addEventListener('load',main() );
 
 /**
  * starting method
