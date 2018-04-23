@@ -1,8 +1,11 @@
-// starting 
-$(document).ready( main() );
+/////////////////////////////////////////////////////////////////
+// starting point, it is fired when the entire pages loads     //
+// including its contentes, such as images, css, scripts, etc. //
+/////////////////////////////////////////////////////////////////
+window.load = main();
 
 /**
- * starting method
+ * main method
  */
 function main() {
     var draw = new Drawing();
