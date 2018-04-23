@@ -1,6 +1,6 @@
 // https://www.w3schools.com/js/js_object_prototypes.asp
 //////////////////////////////////////
-// define class Drawing
+// define class Drawing             //
 //////////////////////////////////////
 
 // Constructor
